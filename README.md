@@ -10,3 +10,13 @@
 
 ## Here Update data. 
 <img width="929" alt="image" src="https://user-images.githubusercontent.com/88477312/218986728-934001a3-90db-4676-b622-11e259b3caa3.png">
+
+
+## installation.
+ in client folder. <br/>
+ npm install  <br/>
+ npm start <br/>
+ 
+ in sever folder <br/>
+ npm install <br/>
+ npm run dev
